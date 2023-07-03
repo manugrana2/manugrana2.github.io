@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.df6a7eab.css",
-    "main.js": "/static/js/main.72e70d3b.js",
+    "main.js": "/static/js/main.9ea81d21.js",
     "static/js/111.ad1cef69.chunk.js": "/static/js/111.ad1cef69.chunk.js",
-    "static/media/photo4.jpg": "/static/media/photo4.4c7907d15dd9ea0be97c.jpg",
-    "static/media/photo2.jpg": "/static/media/photo2.7d510936625768642967.jpg",
-    "static/media/photo3.jpg": "/static/media/photo3.9a32dfac129b20149889.jpg",
-    "static/media/photo1.jpg": "/static/media/photo1.76b22eb753ddc88e0626.jpg",
+    "static/media/restaurant-app.jpg": "/static/media/restaurant-app.9f86b6ca76f480b8a363.jpg",
+    "static/media/libroneto.jpg": "/static/media/libroneto.bcf61f4e5f6149ae31ff.jpg",
+    "static/media/calculator.jpg": "/static/media/calculator.57ecd154fa6bd89305be.jpg",
+    "static/media/study-timer.jpg": "/static/media/study-timer.e1824a55b48013c106a1.jpg",
     "index.html": "/index.html",
     "main.df6a7eab.css.map": "/static/css/main.df6a7eab.css.map",
-    "main.72e70d3b.js.map": "/static/js/main.72e70d3b.js.map",
+    "main.9ea81d21.js.map": "/static/js/main.9ea81d21.js.map",
     "111.ad1cef69.chunk.js.map": "/static/js/111.ad1cef69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df6a7eab.css",
-    "static/js/main.72e70d3b.js"
+    "static/js/main.9ea81d21.js"
   ]
 }
